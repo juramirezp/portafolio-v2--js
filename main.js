@@ -90,7 +90,7 @@ Juan
 </li>
 </ul>
 <h3 class="footer__mail">
-				lc.zerimar@aloh
+				lc.zerimarnauj@aloh
 			</h3>`;
 
 let navbarButton = document.getElementById("navbar__button");
